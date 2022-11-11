@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MT3", "MT3\MT3.vcxproj", "{2835A542-DBDD-4B5F-B54A-933DF32726CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2835A542-DBDD-4B5F-B54A-933DF32726CD}.Debug|x64.ActiveCfg = Debug|x64
+		{2835A542-DBDD-4B5F-B54A-933DF32726CD}.Debug|x64.Build.0 = Debug|x64
+		{2835A542-DBDD-4B5F-B54A-933DF32726CD}.Debug|x86.ActiveCfg = Debug|Win32
+		{2835A542-DBDD-4B5F-B54A-933DF32726CD}.Debug|x86.Build.0 = Debug|Win32
+		{2835A542-DBDD-4B5F-B54A-933DF32726CD}.Release|x64.ActiveCfg = Release|x64
+		{2835A542-DBDD-4B5F-B54A-933DF32726CD}.Release|x64.Build.0 = Release|x64
+		{2835A542-DBDD-4B5F-B54A-933DF32726CD}.Release|x86.ActiveCfg = Release|Win32
+		{2835A542-DBDD-4B5F-B54A-933DF32726CD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE01CEB2-27D0-4C09-AC20-45A3E3DC3F58}
+	EndGlobalSection
+EndGlobal
